@@ -1,0 +1,45 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo {
+    background-color:  red;
+    width: 100vw;
+    height: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+}
+.btn{
+    padding: 10px 15px;
+    width: 50px;
+    color: white;
+    background: red;
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: 2s;
+}
+
+.btn:hover{
+    background: violet;
+
+}
+.detalhe{
+    background-color: red;
+    width: 30vw;
+    height: 45px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+
+}

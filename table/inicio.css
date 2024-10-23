@@ -1,0 +1,16 @@
+.titulo {
+    background-color:  red;
+    width: 99vw;
+    height: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+.lista{
+    background-color: black;
+    width: 15vw;
+    height: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
